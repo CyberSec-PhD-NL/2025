@@ -23881,19 +23881,6 @@ html .page .offset-top-124 {
 	border-color: #fff transparent transparent transparent;
 }
 
-.bg-deluge, .bg-butterfly-bush, .context-dark, .bg-deluge .btn-link, .bg-butterfly-bush .btn-link, .context-dark .btn-link, .bg-deluge .form-label, .bg-butterfly-bush .form-label, .context-dark .form-label, .bg-deluge .form-label-outside.focus, .bg-butterfly-bush .form-label-outside.focus, .context-dark .form-label-outside.focus,
-.bg-deluge .select2-container--bootstrap .select2-selection--single .select2-selection__rendered,
-.bg-butterfly-bush .select2-container--bootstrap .select2-selection--single .select2-selection__rendered,
-.context-dark .select2-container--bootstrap .select2-selection--single .select2-selection__rendered,
-.bg-deluge .select2-container--bootstrap .select2-selection,
-.bg-butterfly-bush .select2-container--bootstrap .select2-selection,
-.context-dark .select2-container--bootstrap .select2-selection,
-.bg-deluge h1,
-.bg-butterfly-bush h1,
-.context-dark h1, .bg-deluge .h1, .bg-butterfly-bush .h1, .context-dark .h1, .bg-deluge h2, .bg-butterfly-bush h2, .context-dark h2, .bg-deluge .h2, .bg-butterfly-bush .h2, .context-dark .h2, .bg-deluge h3, .bg-butterfly-bush h3, .context-dark h3, .bg-deluge .h3, .bg-butterfly-bush .h3, .context-dark .h3, .bg-deluge h4, .bg-butterfly-bush h4, .context-dark h4, .bg-deluge .h4, .bg-butterfly-bush .h4, .context-dark .h4, .bg-deluge h5, .bg-butterfly-bush h5, .context-dark h5, .bg-deluge .h5, .bg-butterfly-bush .h5, .context-dark .h5, .bg-deluge h6, .bg-butterfly-bush h6, .context-dark h6, .bg-deluge .h6, .bg-butterfly-bush .h6, .context-dark .h6 {
-	color: #fff;
-}
-
 .bg-deluge .form-label.auto-fill, .bg-butterfly-bush .form-label.auto-fill, .context-dark .form-label.auto-fill {
 	color: #212121;
 }
